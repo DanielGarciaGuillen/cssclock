@@ -15,9 +15,7 @@ Just the time.
 ## Learnings
 
 * How to transform elements by origin with css transform-origin: 100%;
-* How to use js hour with date();
-* 
-* 
+* How to use js hour with date()
 
 ## Built With
 
