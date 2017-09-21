@@ -8,7 +8,7 @@ Just the time.
 
 ## Demo
 
-## [Clock](https://danielgarciaguillen.github.io/drumkit/)
+## [Clock](https://danielgarciaguillen.github.io/cssclock/)
 ![Drumkit](/image/cssclock.png?raw=true "Drumkit")
 
 
