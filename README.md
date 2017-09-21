@@ -9,13 +9,13 @@ Just the time.
 ## Demo
 
 ## [Css Clock](https://danielgarciaguillen.github.io/cssclock/)
-![Drumkit](/image/cssclock.png?raw=true "Drumkit")
+![CssClock](/image/cssclock.png?raw=true "CssClock")
 
 
 ## Learnings
 
-* 
-* 
+* How to transform elements by origin with css transform-origin: 100%;
+* How to use js hour with date();
 * 
 * 
 
